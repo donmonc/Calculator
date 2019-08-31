@@ -1,2 +1,0 @@
-# Calculator
-CCHub Calculator Task
